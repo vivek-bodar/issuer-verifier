@@ -21,7 +21,7 @@
     "service": [
       {
         "id": "did:web:vivek-bodar.github.io:issuer-verifier#did-communication",
-        "type": "DIDCommMessaging",
+        "type": "did-communication",
         "serviceEndpoint": "http://192.168.1.7:9001",
         "recipientKeys": "did:web:vivek-bodar.github.io:issuer-verifier#key-1",
         "routingKeys": "did:web:vivek-bodar.github.io:issuer-verifier#key-1",
