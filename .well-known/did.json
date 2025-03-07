@@ -6,7 +6,7 @@
       "id": "did:web:vivek-bodar.github.io:issuer-verifier#key-1",
       "type": "Ed25519VerificationKey2018",
       "controller": "did:web:vivek-bodar.github.io:issuer-verifier",
-      "publicKeyBase58": "HvDVLb6psgMK7CfF9Ddgo8FTfsQdcKYBA7t9JddysvTK"
+      "publicKeyBase58": "3JoZPQsXJ2CBq2BWN2jfRNifUm3bwgDyu1PkkrN1p9gc"
     }
   ],
   "authentication": ["did:web:vivek-bodar.github.io:issuer-verifier#key-1"],
